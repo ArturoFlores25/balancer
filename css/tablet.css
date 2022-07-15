@@ -1,3 +1,27 @@
+@media (min-width: 600px){
+    header{
+        flex-direction: row;
+        height: 200px;
+    }
+    header img{
+        height: 140px;
+        margin: 0 0 0 40px;
+    }
+    .header__title--container{
+        text-align: center;
+        height: 200px;
+        margin-left: 20px;
+        padding: 4px;
+    }
+    .header__title--container h1{
+        text-align: center;
+        font-size: 2.4rem;
+        margin-top: 16px;
+    }
+    .header__title--container p{
+        font-size: 1.4rem;
+    }
+}
 .main__tables--container{
     display: flex;
     width: 930px;
