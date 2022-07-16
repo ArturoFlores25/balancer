@@ -8,7 +8,7 @@
 :root{
     /* Colores */
     --bitcoin-orange:#F7931A;
-    --soft-orange:#FFE9D5;
+    --soft-blue:#d5f1ff;
     --secondary-blue:#1A9AF7;
     --soft-blue:#E7F5FF;
     --warm-black:#1e2b2b;
@@ -33,19 +33,23 @@ header{
     flex-direction: column;
     justify-content: center;
     width: 100%;
+    padding-top: 20px;
     min-width: 320px;
     height: 360px;
     text-align: center;
     background: linear-gradient(207.8deg, #1e2b2b 16.69%, #00bcd4 100%);
 }
+.image__container{
+    display: flex;
+    align-self: center;
+}
 header img{
-    width: 151px;
+    width: 150px;
     height: 120px;
-    margin-top: 40px;
     align-self: center;
 }
 .header__title--container{
-    width: 90%;
+    width: 95%;
     min-width: 288px;
     max-width: 900px;
     height: 218px;
@@ -64,7 +68,7 @@ header img{
     font-size: 1.4rem;
     font-weight: 500;
     line-height: 1.8rem;
-    color: var(--soft-orange);
+    color: var(--soft-blue);
 }
 .header__title--container .header__button{
     position: absolute;
@@ -76,7 +80,7 @@ header img{
     padding: 15px;
     background-color: var(--off-white);
     margin-top: 35px;
-    box-shadow: 0px 4px 8px rgba(89, 73, 30, 0.16);
+    box-shadow: 0px 4px 8px rgba(13, 62, 105, 0.4);
     border: none;
     border-radius:5px;
     font-size: 1.4rem;
@@ -89,9 +93,9 @@ header img{
     width: 12px;
     height: 8px;
     margin-left: 10px;
-    background-image: url(./assets/icons/down-arrow.svg);
+    background-image: url(../assets/down-arrow.svg);
 }
-main{
+/* main{
     width: 100%;
     height: auto;
     background-color: var(--off-white);
@@ -498,4 +502,4 @@ footer .left ul{
 .left a{
     text-decoration: none;
     color: var(--just-white);
-}
+} */

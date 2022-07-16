@@ -1,3 +1,10 @@
 @media (min-width:425px){
-
+    .header__title--container {
+    margin-top: 40px;
+}
+.header__title--container p {
+    margin-top: 32px;
+    width: 70%;
+    margin: 30px auto;
+    }
 }
