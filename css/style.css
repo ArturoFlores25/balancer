@@ -95,7 +95,7 @@ header img{
     margin-left: 10px;
     background-image: url(../assets/down-arrow.svg);
 }
-/* main{
+main{
     width: 100%;
     height: auto;
     background-color: var(--off-white);
@@ -120,6 +120,7 @@ header img{
     margin-bottom: 50px;
     background-image: url(./assets/icons/Bitcoin.svg);
 }
+/* 
 .main__exchange--container h2{
     margin-bottom: 30px;
     font-size: 2.4rem;
@@ -502,4 +503,4 @@ footer .left ul{
 .left a{
     text-decoration: none;
     color: var(--just-white);
-} */
+}
