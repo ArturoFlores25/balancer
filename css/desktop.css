@@ -1,11 +1,26 @@
 @media (min-width: 900px){
     header{
         flex-direction: row;
+        height: 240px;
     }
     .image__container {
         padding: 24px;
     }
     header img {
         height: 160px;
+    }
+    .header__title--container{
+        margin-top: 64px;
+        height: 160px;
+    }
+    .header__title--container h1 {
+        font-size: 2.8rem;
+    }
+    .header__title--container p{
+        font-size: 1.8rem;
+        width: 85%;
+    }
+    .header__title--container .header__button {
+        top: 180px;
     }
 }
