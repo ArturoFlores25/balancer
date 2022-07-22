@@ -1,5 +1,10 @@
 @media (min-width: 600px){
-    
+    .main__exchange--container h2{
+        font-size: 2.8rem;
+    }
+    .main__exchange--container p{
+        font-size: 1.8rem;
+    }
 }
 /* .main__tables--container{
     display: flex;

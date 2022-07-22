@@ -23,4 +23,10 @@
     .header__title--container .header__button {
         top: 180px;
     }
+    .main__exchange--container h2{
+        font-size: 2.8rem;
+    }
+    .main__exchange--container p{
+        font-size: 1.8rem;
+    }
 }
