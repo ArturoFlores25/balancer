@@ -5,6 +5,12 @@
     .main__exchange--container p{
         font-size: 1.8rem;
     }
+    .main__currency--table .currency__table--title{
+        font-size: 2.2rem;
+    }
+    .main__currency--table .currency__table--title{
+        font-size: 2.2rem;
+    }
 }
 /* .main__tables--container{
     display: flex;

@@ -29,4 +29,11 @@
     .main__exchange--container p{
         font-size: 1.8rem;
     }
+    .main__tables--container{
+        display: flex;
+        margin-top: 40px;
+    }
+    .currency__table--container td{
+        font-size: 2.2rem;
+    }
 }
