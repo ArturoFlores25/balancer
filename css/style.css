@@ -295,18 +295,17 @@ padding: 20px 10px;
     background-repeat: no-repeat;
     margin-bottom: 10px;
 }
-/* 
 .product-detail--card .clock{
-    background-image: url(./assets/icons/clock.svg);
+    background-image: url(../assets/clock.svg);
 }
 .product-detail--card .eye{
-    background-image: url(./assets/icons/eye.svg);
+    background-image: url(../assets/eye.svg);
 }
 .product-detail--card .dollar{
-    background-image: url(./assets/icons/dollar-sign.svg);
+    background-image: url(../assets/dollar-sign.svg);
 }
 .product-detail--card .check-circle{
-    background-image: url(./assets/icons/check-circle.svg);
+    background-image: url(../assets/check-circle.svg);
 }
 .product-detail--card .product--card-title{
     color:#FFFFFF;
@@ -321,6 +320,7 @@ padding: 20px 10px;
     font-weight: 500;
     line-height: 1.8rem;
 }
+/* 
 .bitcoin-img-container{
     width: 100%;
     min-height: 320px;
