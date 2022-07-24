@@ -11,6 +11,18 @@
     .main__currency--table .currency__table--title{
         font-size: 2.2rem;
     }
+    .product-detail--title {
+        width: 95%;
+    }
+    .product-detail--title h2{
+        font-size: 2.8rem;
+    }
+    .product-detail--title p{
+        font-size: 1.8rem;
+    }
+    .product-cards--container .product-detail--card{
+        margin: 24px auto;
+    }
 }
 /* .main__tables--container{
     display: flex;

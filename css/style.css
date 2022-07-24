@@ -234,9 +234,9 @@ main{
 
 /* -----Sección de beneficios----- */
 .main-product-detail{
-background-color: var(--warm-black);
-position: relative;
-width: 100%;
+    background-color: var(--warm-black);
+    position: relative;
+    width: 100%;
 min-width: 320px;
 height: auto;
 padding: 20px 10px;
@@ -258,7 +258,7 @@ padding: 20px 10px;
     min-width: 288px;
     height: auto;
     margin: 0 auto;
-    margin-top: 50px;
+    margin-top: 24px;
     text-align: center;
 }
 .product-detail--title h2{
