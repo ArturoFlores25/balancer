@@ -320,12 +320,11 @@ padding: 20px 10px;
     font-weight: 500;
     line-height: 1.8rem;
 }
-/* 
 .bitcoin-img-container{
     width: 100%;
     min-height: 320px;
     height: 50vh;
-    background-image: url(./assets/img/bitcoinbaby2x.jpg);
+    background-image: url("https://i.ibb.co/4jwD02B/bitcoinbaby2x.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -343,7 +342,7 @@ padding: 20px 10px;
     min-width: 320px;
     padding-bottom: 70px;
     text-align: center;
-
+    
     background-color: var(--just-white);
 }
 .main-plans-container .plans-title{
@@ -367,6 +366,7 @@ padding: 20px 10px;
     line-height: 1.8rem;
     color: #757575;
 }
+/* section con scroll */
 .main-plans-container .plans-container--slider{
     display: flex;
     height: 316px;
@@ -405,13 +405,13 @@ padding: 20px 10px;
     top: -15px;
     font-size: 1.2rem;
     padding: 7px;
-
+    letter-spacing: 2px;
     font-family: inter;
-    /* font-weight: bold; */
-   /* line-height: 1.5rem;
+    font-weight: bold;
+    line-height: 1.5rem;
 }
-/*
- .plan-info-container .plan-card--title{
+
+.plan-info-container .plan-card--title{
     padding-top: 30px;
     font-size: 1.4rem;
     line-height: 1.8rem;
@@ -459,7 +459,7 @@ padding: 20px 10px;
     display: inline-block;
     width: 20px;
     height: 20px;
-    background-image: url(./assets/icons/orange-right-arrow.svg);
+    background-image: url("../assets/orange-right-arrow.svg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -473,7 +473,7 @@ padding: 20px 10px;
     
 }
 .plan-card--ca .span2{
-    background-color: #471353;
+    /* background-color: #471353; */
 }
 .plans-container--card .color3{
     background-color: #471353;
@@ -481,6 +481,7 @@ padding: 20px 10px;
 .plans-container--card .button3{
     border: 2px solid #471353;
 }
+/*
 footer {
     display: flex;
     width: 100%;

@@ -23,6 +23,11 @@
     .product-cards--container .product-detail--card{
         margin: 24px auto;
     }
+    .bitcoin-img-container h2{
+        padding-top: 80px;
+        font-size: 2.8rem;
+        text-align: center;
+    }
 }
 /* .main__tables--container{
     display: flex;
