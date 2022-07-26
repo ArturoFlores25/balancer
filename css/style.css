@@ -37,7 +37,7 @@ header{
     min-width: 320px;
     height: 360px;
     text-align: center;
-    background: linear-gradient(207.8deg, #1e2b2b 16.69%, #00bcd4 100%);
+    background: var(--warm-black);
 }
 .image__container{
     display: flex;
