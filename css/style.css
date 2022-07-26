@@ -369,7 +369,7 @@ padding: 20px 10px;
 /* section con scroll */
 .main-plans-container .plans-container--slider{
     display: flex;
-    height: 316px;
+    height: 332px;
     overflow-x: scroll;
     overscroll-behavior-x: contain;
     scroll-snap-type:x proximity;
@@ -472,9 +472,9 @@ padding: 20px 10px;
     border: 2px solid var(--secondary-blue);
     
 }
-.plan-card--ca .span2{
-    /* background-color: #471353; */
-}
+/* .plan-card--ca .span2{
+    /background-color: #471353;
+} */
 .plans-container--card .color3{
     background-color: #471353;
 }

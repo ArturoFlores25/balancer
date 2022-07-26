@@ -57,6 +57,9 @@
     .plans-title p{
         font-size: 1.8rem;
     }
+    footer .left ul li{
+        margin: 0 80px
+    }
 }
 @media (min-width: 1080px){
     .product-detail--card .product--card-body{
