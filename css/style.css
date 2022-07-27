@@ -9,14 +9,15 @@
     /* Colores */
     --bitcoin-orange:#F7931A;
     --soft-blue:#d5f1ff;
-    --secondary-blue:#1A9AF7;
+    --secondary-blue:#751b89;
     --soft-blue:#E7F5FF;
-    --warm-black:#22353d;
-    --black:#15191c;
+    --warm-black:#33073d;
+    --black:#1d1526;
     --grey:#BABABA;
     --off-white:#FAF8F7;
     --just-white:#FFFFFF;
     --primary-blue: #00bcd4;
+    --purple: #9527ad;
 }
 *{
     box-sizing: border-box;
@@ -145,7 +146,7 @@ main{
 .main__currency--table .currency__table--title{
     font-family: "DM Sans";
     font-weight: bold;
-    color: var(--primary-blue);
+    color: var(--secondary-blue);
     margin-bottom: 16px;
     font-size: 1.8rem;
     line-height: 2.3rem;
@@ -247,11 +248,11 @@ padding: 20px 10px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    top: -11px;
+    top: 2px;
     left: calc(50% - 20px);
     position: absolute;
     width: 37px;
-    height: 24px;
+    height: 37px;
 }
 .product-detail--title{
     width: 90%;
