@@ -240,7 +240,7 @@ position: relative;
 width: 100%;
 min-width: 320px;
 height: auto;
-padding: 20px 10px;
+padding: 40px 10px;
 }
 .product-detail--batata-logo{
 /* cambiar logo */
@@ -248,7 +248,7 @@ padding: 20px 10px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    top: 2px;
+    top: 12px;
     left: calc(50% - 20px);
     position: absolute;
     width: 37px;
@@ -342,7 +342,7 @@ padding: 20px 10px;
 .main-plans-container{
     width: 100%;
     min-width: 320px;
-    padding-bottom: 70px;
+    padding-bottom: 20px;
     text-align: center;
     
     background-color: var(--just-white);
@@ -495,9 +495,9 @@ footer section{
     align-items: center;
     width: 50%;
 }
-/* footer .right span{
-    background-image: url(../assets/logobalancerfooterblanco.svg);
-} */
+footer .right img{
+    height: 52px;
+}
 footer .left ul{
     font-size: 1.4rem;
     font-weight: 500;

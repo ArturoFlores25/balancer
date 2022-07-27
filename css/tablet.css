@@ -31,7 +31,7 @@
     footer{
         flex-direction: column-reverse;
         align-items: center;
-        height: 90px;
+        height: 120px;
     }
     footer .left{
         width: 75%;
@@ -40,12 +40,16 @@
     }
     footer .left ul{
         display:flex;
-        margin-bottom: 24px;
+        margin-bottom: 16px;
     }
     footer .left ul li{
         margin: 0 36px
     }
     footer .right{
         margin-bottom: 12px;
+    }
+    footer .right img{
+        height: 52px;
+        padding-right: 22px;
     }
 }

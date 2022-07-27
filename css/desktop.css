@@ -33,6 +33,9 @@
         display: flex;
         margin-top: 40px;
     }
+    .main-plans-container .plans-container--slider{
+        justify-content: center;
+    }
     .currency__table--container td{
         font-size: 2.2rem;
     }
